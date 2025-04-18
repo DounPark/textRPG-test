@@ -1,0 +1,14 @@
+D:\WorkPlace\SpartaRPG\SpartaRPG\bin\Debug\net8.0\SpartaRPG.exe
+D:\WorkPlace\SpartaRPG\SpartaRPG\bin\Debug\net8.0\SpartaRPG.deps.json
+D:\WorkPlace\SpartaRPG\SpartaRPG\bin\Debug\net8.0\SpartaRPG.runtimeconfig.json
+D:\WorkPlace\SpartaRPG\SpartaRPG\bin\Debug\net8.0\SpartaRPG.dll
+D:\WorkPlace\SpartaRPG\SpartaRPG\bin\Debug\net8.0\SpartaRPG.pdb
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\SpartaRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\SpartaRPG.AssemblyInfoInputs.cache
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\SpartaRPG.AssemblyInfo.cs
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\SpartaRPG.csproj.CoreCompileInputs.cache
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\SpartaRPG.dll
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\refint\SpartaRPG.dll
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\SpartaRPG.pdb
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\SpartaRPG.genruntimeconfig.cache
+D:\WorkPlace\SpartaRPG\SpartaRPG\obj\Debug\net8.0\ref\SpartaRPG.dll
